@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+#logo{
+    background-color: rgb(61, 65, 245);
+    border: 2px solid black;
+    margin-left: 50px;
+    color: white;
+    height: 25px;
+
+    
+}
+button{
+    background-color: #FF6347;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+a{
+    margin-left: 145px;
+    margin-top: 10px;
+   
+}
+#navbar{
+    background-color: lawngreen;
+    height: 50px;
+    border: 2px solid black;
+}
+nav{
+    background-color: cornflowerblue;
+    height: 550px;
+    
+}
+.niraj1{
+    margin-left: 600px;
+    
+}
+.niraj2{
+    margin-left: 600px;
+    margin-top: 15px;
+}
+.niraj3{
+    margin-left: 600px;
+    margin-top: 15px;
+}
+.niraj4{
+    margin-left: 600px;
+    margin-top: 15px;
+
+}
+
+#box{
+    background-color: darkgreen;
+    height: 140px;
+    width: 270px;
+    margin-top: 90px;
+    margin-left: 120px;
+   display: inline-block;
+   border: 2px solid black;
+   border-radius: 5px;
+   color: white;
+   text-align: center;
+  
+   
+}
+#box:hover{
+    background-color: #02ff17;
+}
+h2{
+    color: rgb(242, 242, 247);
+    background-color: blue;
+    width: 70px;
+    height: 35px;
+    border: 2px solid black;
+    margin-left: 640px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    cursor: pointer;
+     text-decoration: underline;
+    
+}
+#submit{
+    background-color: #02ff17;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 33px;
+    border: 2px solid black;
+    text-decoration: underline;
+    
+
+
+}
+
+#submit1{
+    background-color: #ff2802;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 37px;
+    border: 2px solid black;
+    text-decoration: underline;
+
+
+}
+#footer{
+    background-color: black;
+    color: white;
+    height: 300px;
+    
+}
+ol{
+    margin-left: 200px;
+    
+}
+ul{
+    margin-top: 50px;
+}
+img{
+    margin-left: 50px;
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: blue;
+    border: 5px;
+    border-color: chartreuse;
+    margin-top: 60px;
+    border: 2px solid orange;
+}
+h5{
+    margin-left: 60px;
+    color: white;
+}
